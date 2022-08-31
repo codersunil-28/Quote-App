@@ -1,0 +1,91 @@
+[{
+        
+        "name": "ELEANOR ROOSEVELT",
+        "image": "ambition",
+        "quotesArray": [
+            "With the new day comes new strength and new thoughts.",
+
+            "No one can make you feel inferior without your consent.",
+
+            "It is not fair to ask of others what you are not willing to do yourself.",
+
+            "Never allow a person to tell you no who doesn't have the power to say yes.",
+
+            "If life were predictable it would cease to be life, and be without flavor."
+
+        ]
+
+    },
+    {
+        
+        "name": "MAYA ANGELOU",
+        "image": "calm",
+        "quotesArray": [
+            "When someone shows you who they are, believe them the first time.",
+
+            "If you don't like something, change it. If you can't change it, change your attitude.",
+
+            "There is no greater agony than bearing an untold story inside you.",
+
+            "Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness.",
+
+            "The truth is, no one of us can be free until everybody is free."
+
+        ]
+
+    },
+    {
+        
+        "name": "NELSON MANDELA",
+        "image": "focus",
+        "quotesArray": [
+            "Education is the most powerful weapon which you can use to change the world.",
+
+            "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others.",
+
+            "Never, never and never again shall it be that this beautiful land will again experience the oppression of one by another.",
+
+            "There can be no keener revelation of a society's soul than the way in which it treats its children.",
+
+            "To deny people their human rights is to challenge their very humanity."
+
+        ]
+
+    },
+    {
+        
+        "name": "CHARLES DICKENS",
+        "image": "reflect",
+        "quotesArray": [
+            "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to, than I have ever known.",
+
+            "No one is useless in this world who lightens the burden of it to anyone else.",
+
+            "If there were no bad people, there would be no good lawyers.",
+
+            "The pain of parting is nothing to the joy of meeting again.",
+
+            "It is a melancholy truth that even great men have their poor relations."
+
+        ]
+
+    },
+    {
+        
+        "name": "WALT DISNEY",
+        "image": "reflect2",
+        "quotesArray": [
+            "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.",
+
+            "All our dreams can come true, if we have the courage to pursue them.",
+
+            "You can design and create, and build the most wonderful place in the world. But it takes people to make the dream a reality.",
+
+            "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.",
+
+            "The more you like yourself, the less you are like anyone else, which makes you unique."
+
+        ]
+
+    }
+]
