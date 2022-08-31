@@ -22,7 +22,7 @@ struct Author: Identifiable, Decodable{
 
                                                                                               "It is not fair to ask of others what you are not willing to do yourself.",
 
-                                                                                              "Never allow a person to tell you no who doesn't have the power to say yes.",
+                                                                                              "Never allow a person to tell you no who doesn't have the power to say yes.Love",
 
                                                                                               "If life were predictable it would cease to be life, and be without flavor."])
     }
