@@ -24,7 +24,7 @@ struct Author: Identifiable, Decodable{
 
                                                                                               "Never allow a person to tell you no who doesn't have the power to say yes.Love",
 
-                                                                                              "If life were predictable it would cease to be life, and be without flavor."])
+                                                                                              "If life were predictable it would cease to be life, and be without flavor and tasteless."])
     }
     
 }
